@@ -19,7 +19,6 @@ I have gained recent education and technical experience in the areas below. I lo
     * Sentiment Classification
     * PII Detection
     * Language Modeling
-    * Text Summarization
 * **Computer Vision**
     * Image Classification
     * Object Detection
