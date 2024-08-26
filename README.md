@@ -19,10 +19,12 @@ I have gained recent education and technical experience in the areas below. I lo
     * Sentiment Classification
     * PII Detection
     * Language Modeling
+      
 * **Computer Vision**
     * Image Classification
     * Object Detection
     * Image Segmentation
+
 * **Additional Skills**
     * Git
     * Web Scraping
