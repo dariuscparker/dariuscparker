@@ -31,4 +31,3 @@ I have gained recent education and technical experience in the areas below. I lo
     * SQL
     * Quantitative Analytics
     * Prompt Engineering
-    * Problem-Solving
