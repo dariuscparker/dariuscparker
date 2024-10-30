@@ -1,6 +1,6 @@
 **Background and Career Transition**
 
-With a background in healthcare administration and self-taught predictive analytics, I am at an exciting time in my career where I am transitioning from healthcare administration to the field of **data science**.
+With a background in healthcare administration and an interest in predictive analytics, I am at an exciting time in my career where I am transitioning from healthcare administration to the field of **data science**.
 
 **Education**
 
