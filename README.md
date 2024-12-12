@@ -4,8 +4,7 @@ With a background in healthcare administration and an interest in predictive ana
 
 **Education**
 
-* Currently pursuing a Master of Science in Data Science at Syracuse University, with a focus on Artificial Intelligence (AI) and Natural Language Processing (NLP).
-* Expected graduation date is December 2024.
+* Master of Science in Data Science at Syracuse University, with a focus on Artificial Intelligence (AI) and Natural Language Processing (NLP). **-Completed December 2024.**
 
 **Healthcare Administration Experience**
 
@@ -26,8 +25,11 @@ I have gained recent education and technical experience in the areas below. I lo
     * Image Segmentation
 
 * **Additional Skills**
-    * Git
-    * Web Scraping
     * SQL
+    * PySpark (Big Data)
     * Quantitative Analytics
     * Prompt Engineering
+    * Git
+    * Web Scraping
+  
+    
